@@ -4,7 +4,7 @@ A minecraft datapack for detecting player name changes and updating scoreboards 
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?)](#contributors-)
 [![Discord](https://img.shields.io/badge/Discord-⛓-blue.svg)](https://discord.gg/5wkd8F45bR)
 [![Tutorial](https://img.shields.io/badge/Tutorial-▶-red.svg)](https://www.youtube.com/watch?v=6iwiIez8VlA)
-[![Downloads](https://img.shields.io/github/downloads/CloudWolfYT/MC-Slowcasting/total.svg)](https://github.com/CloudWolfYT/MC-Slowcasting/releases)
+[![Downloads](https://img.shields.io/github/downloads/CloudWolfYT/Player-Name-Tracker/total.svg)](https://github.com/CloudWolfYT/Player-Name-Tracker/releases)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <img src="images/social.png"
      alt="Social Image"
