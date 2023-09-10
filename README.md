@@ -1,5 +1,5 @@
 # Player-Name-Tracker
-A minecraft datapack for detecting player name changes and updating scoreboards accordingly, using macros.
+A minecraft datapack for detecting player name changes and updating scoreboards accordingly, using macros. (Only works in 1.20.2 or newer)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?)](#contributors-)
 [![Discord](https://img.shields.io/badge/Discord-⛓-blue.svg)](https://discord.gg/5wkd8F45bR)
