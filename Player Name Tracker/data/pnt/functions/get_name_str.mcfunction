@@ -1,1 +1,0 @@
-$data modify storage pnt temp set string entity @s text -$(len) -2
